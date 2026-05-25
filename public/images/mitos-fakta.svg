@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#f0f9ff"/>
+  <text x="180" y="120" font-family="Arial" font-size="72" font-weight="bold" fill="#7dd3fc">?</text>
+  <text x="280" y="160" font-family="Arial" font-size="96" font-weight="bold" fill="#0ea5e9">?</text>
+  <text x="380" y="130" font-family="Arial" font-size="60" font-weight="bold" fill="#7dd3fc">?</text>
+  <text x="150" y="220" font-family="Arial" font-size="48" font-weight="bold" fill="#bae6fd">?</text>
+  <text x="420" y="240" font-family="Arial" font-size="54" font-weight="bold" fill="#bae6fd">?</text>
+  <text x="320" y="260" font-family="Arial" font-size="40" font-weight="bold" fill="#7dd3fc">?</text>
+  <text x="220" y="280" font-family="Arial" font-size="36" font-weight="bold" fill="#e0f2fe">?</text>
+  <text x="300" y="360" text-anchor="middle" font-family="Arial" font-size="24" fill="#0284c7">Mitos dan Fakta</text>
+</svg>
